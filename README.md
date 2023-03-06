@@ -35,7 +35,7 @@ While the setup of the website and other technical requirements will be done by 
 *As a customer I want to see what the prepared apple dish looks like, so that I can compare my own result with the suggested one.*
 
 ### Acceptance Criteria
-- The text-content for the new recipe has been enriched with an image, which shows what theprepared dish looks like
+- The text-content for the new recipe has been enriched with an image, which shows what the prepared dish looks like
 
 ## User Story 6
 *As a content creator I want to edit the human readable URL for the recipe page, so that it features the author's name.*
